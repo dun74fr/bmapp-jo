@@ -1,0 +1,759 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"company",
+				"companyLogin"
+			],
+			[
+				"cl",
+				"closeLogin"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"login",
+				"loginData"
+			],
+			[
+				"a",
+				"action"
+			],
+			[
+				"sele",
+				"selectedBook"
+			],
+			[
+				"se",
+				"selectedChapter"
+			],
+			[
+				"va",
+				"valueattr"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"currentC",
+				"currentChap"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"che",
+				"checkForStartSelection"
+			],
+			[
+				"dev",
+				"devAnnotator"
+			],
+			[
+				"the",
+				"the-canvas"
+			],
+			[
+				"initial",
+				"initialized"
+			],
+			[
+				"c",
+				"canvas"
+			],
+			[
+				"page",
+				"pageNum"
+			],
+			[
+				"ratio",
+				"ratioW"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"inner",
+				"innerWidth"
+			],
+			[
+				"res",
+				"resizeCanvas"
+			],
+			[
+				"me",
+				"meanTime"
+			],
+			[
+				"com",
+				"commenting"
+			],
+			[
+				"comment",
+				"commentReset"
+			],
+			[
+				"comm",
+				"commentNr"
+			],
+			[
+				"co",
+				"colgroup	Tag"
+			],
+			[
+				"cu",
+				"curentTab"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ch",
+				"chapContainer"
+			],
+			[
+				"C",
+				"Chapter"
+			],
+			[
+				"chap",
+				"chapterNr"
+			],
+			[
+				"chan",
+				"changeSrc"
+			],
+			[
+				"current",
+				"currentBookId"
+			],
+			[
+				"boo",
+				"bookId"
+			],
+			[
+				"change",
+				"changeBook"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"int",
+				"instance"
+			],
+			[
+				"getT",
+				"getTileAtCellPosition"
+			],
+			[
+				"set",
+				"selectedTile"
+			],
+			[
+				"sli",
+				"slideav3"
+			],
+			[
+				"slide",
+				"slideav1"
+			],
+			[
+				"has",
+				"hash"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"i",
+				"italic"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/templates/contacts.html",
+			"settings":
+			{
+				"buffer_size": 637,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/contact.html",
+			"settings":
+			{
+				"buffer_size": 732,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 3930,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/conference/www/js/controllers.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/Jatun/ionic-tutorial/conference/www/index.html",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/conference/www/js/app.js",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/conference/www/js/services.js",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/bmapp/www/js/services.js",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/conference/www/templates/contacts.html",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/bmapp/www/templates/contacts.html",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/conference/www/templates/menu.html",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/conference/www/lib/ionic/js/ionic.js",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/conference/www/templates/login.html",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/conference/bower.json",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/bmapp/www/templates/contact.html",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/bmapp/www/templates/login.html",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/bmapp/www/js/controllers.js",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/bmapp/www/index.html",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/bmapp/www/js/app.js",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/bmapp/www/templates/menu.html",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/conference/www/templates/contact.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/Jatun/ionic-tutorial/conference/www/templates/menu.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/Jatun/ionic-tutorial/conference/www/js/app.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/Jatun/ionic-tutorial/conference/www/js/controllers.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/Jatun/ionic-tutorial/conference/www/templates/contacts.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/Jatun/ionic-tutorial/conference/www/templates/contact.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/Jatun/ionic-tutorial/conference/www/js/services.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/Jatun/ionic-tutorial/conference/www/data/contact.json",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/Jatun/ionic-tutorial/conference/www/templates/sessions.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/Jatun/ionic-tutorial/conference/www/templates/session.html",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/elwis-ds.xml",
+		"/usr/bin/jboss-5.1.0/server/default/log/server.log",
+		"/usr/bin/jboss-5.1.0/server/default/deploy/default-ds.xml",
+		"/Volumes/Data_SSD/Users/julien/AndroidstudioProjects/JWPubsFeeder/jWPubsFeeder/src/main/AndroidManifest.xml",
+		"/Volumes/Data_SSD/Users/julien/Downloads/res 4/values/styles_test.xml",
+		"/Volumes/Data_SSD/Users/julien/Downloads/visita_zona/AdobeHDS.php",
+		"/Volumes/Data_SSD/Users/julien/Downloads/visita_zona/download.sh",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/floatingbiblejs/lang_5.400/index.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/index.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/floatingbiblejs/lang_3.300/js/app.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/lang_4/index.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/floatingbiblejs/lang_4.300/js/app.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/floatingbiblejs/lang_4.300/index.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/lang_2/index.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/floatingbiblejs/lang_2.300/js/app.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/floatingbiblejs/index_save.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/floatingbiblejs/js/app.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/floatingbiblejs/index.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/lang_1/index.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/floatingbiblejs/lang_1/js/app.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/floatingbiblejs/lang_1/index.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/floatingbiblejs/lang_1/js/script.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/FloatingStudyTimer/assets/www/index.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/lang_3/css/style.css",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/lang_2/css/style.css",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/lang_1/bible/1-chroniques_1_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/lang_1/css/style.css",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/lang_3/index.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/hooks/extensions/myannotate.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/libs/myannotator.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/examples/annotator.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/libs/annotator/lib/annotator.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/hooks/extensions/annotate.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/annotator.touch.js-development/pkg/annotator.touch.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/libs/annotator/lib/viewer.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/reader_src/reader.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/src/chapter.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/reader/dev.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/libs/annotator/css/annotator.touch.css",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/annotator-1.2.9/dev.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/reader/js/hooks/extensions/annotator.js",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/reader/index.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/epub.js-master/documentation/README.md",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/w_S_20150115 copy/OEBPS/css/default.css",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/w_S_20150115 copy/OEBPS/css/fonts.css",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/w_S_20150115 copy/OEBPS/content.opf",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/w_S_20150115 copy/META-INF/container.xml",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/Readme.txt",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/w_S_20150115 copy/OEBPS/0204_W15.TK1.xhtml",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/w_S_20150115 copy/OEBPS/toc.xhtml",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/w_S_20150115 copy/OEBPS/toc.ncx",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/ePubReader/w_S_20150115 copy/mimetype",
+		"/Volumes/Data_SSD/Users/julien/Downloads/books/sm140106.sm3",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/android/FloatingMinistrySchoolTimer/assets/www/application-es.json",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-corintios_1_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-corintios_2_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-corintios_3_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-corintios_4_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-corintios_5_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-corintios_6_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-corintios_7_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-corintios_8_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-corintios_9_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_10_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_11_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_12_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_13_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_14_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_15_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_16_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_17_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_18_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_19_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_1_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_20_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_21_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_22_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_23_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_24_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_25_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_26_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_27_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_28_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_29_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_2_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_3_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_4_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_5_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_6_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_7_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_8_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-cronicas_9_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-juan_1_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-juan_2_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-juan_3_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-juan_4_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-juan_5_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-pedro_1_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-pedro_2_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-pedro_3_.html",
+		"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output/1-pedro_4_.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/usr/bin/jboss-5.1.0/server/default",
+			"<open folders>",
+			"/Volumes/Data_SSD/Users/julien/Documents/dev/nwtFloatingBible/output",
+			"/Volumes/Data_SSD/Users/julien/Documents/dev/PlannerWorkspace/Planner",
+			"/Volumes/Data_SSD/Users/julien/Documents/dev/PlannerWorkspace/Planner-Backend",
+			"/Volumes/Data_SSD/Users/julien/Documents/dev/SampleWorkspace/Planner-Backend",
+			"/Volumes/Data_SSD/Users/julien/Documents/dev/SampleWorkspace/Planner"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"VM117:2 ",
+			"ERROR",
+			"persistenceManager",
+			"postoffice",
+			"ERR",
+			"ERROR",
+			"8080",
+			"VM156:2 ",
+			"VM224:2 ",
+			"VM3047:2 ",
+			"VM1179:2 ",
+			"\",\"  \",\"",
+			",",
+			",,",
+			",,  ",
+			"  ",
+			"                        ",
+			"\\n",
+			"<.*?>",
+			" ",
+			"\\n",
+			"<.*?>",
+			"​",
+			", ",
+			"​",
+			"<.*?>",
+			"​",
+			"<.*?>",
+			", ",
+			"isOnline",
+			", ",
+			"<.*?>",
+			"​",
+			", ",
+			"<.*?>",
+			", ",
+			"​",
+			"<.*?>",
+			"​",
+			", ",
+			"<.*?>",
+			"​",
+			"​​",
+			", ",
+			"​",
+			"​​",
+			"<.*?>",
+			"chaps: (\\d+)",
+			"../bower",
+			"chaps: (\\d+)",
+			"./bower",
+			" \n",
+			"item",
+			"type",
+			"...",
+			"../../components",
+			"setupAn",
+			"createA",
+			"_onS",
+			"_wat",
+			"util",
+			"this.util",
+			"_watc",
+			"this.subs",
+			"this.range",
+			"createAnn",
+			"temp",
+			"highlightRange",
+			"highlightRanges",
+			"highlightRa",
+			"high",
+			"hight",
+			"Hight",
+			"isAn",
+			"annotator-wra",
+			".annotator-w",
+			"this.wra",
+			"checkFor",
+			"getSelectedR",
+			"this.getSe",
+			"this.se",
+			"document",
+			".bind",
+			"$(",
+			"$(doc",
+			"$",
+			"bind",
+			"checkForEn",
+			"checkForS",
+			"$",
+			"checkForEndS",
+			"checkForEnd",
+			"bind",
+			"select",
+			"');/*\n\ngetSelectedRanges(",
+			"');/*\n\ngetSelectedRanges",
+			"');/*\n",
+			"selectedR",
+			"conso",
+			"../libs/annotator/lib/",
+			"style",
+			"log",
+			"Prefe",
+			"initialize(",
+			"webViewerLoad",
+			"webViewerInitialized",
+			"file",
+			"floatingministryschooltimer\n",
+			"    \n",
+			"fn6273687",
+			"<div id=\"bibleText\">",
+			"shadowSc",
+			"shadowW",
+			"group(",
+			"images/",
+			"content/",
+			"getTileA",
+			"mouseMove",
+			"content/",
+			"moveTo",
+			"scrollPage",
+			"moveSectionDo",
+			"MouseWheelH",
+			"slideIn",
+			"scrollSl",
+			"scrollPa",
+			"moveSectionD",
+			"MouseW"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\",\"",
+			"",
+			",",
+			"",
+			",",
+			"",
+			"\",\"",
+			"",
+			"\",\"",
+			"",
+			"\",\"",
+			"",
+			"\",\"",
+			"",
+			"\",\\n\"",
+			"",
+			"\", \"",
+			"",
+			"chaps: new Array\\($1\\)",
+			"./bower",
+			"chaps: new Array\\($1\\)",
+			"../bower",
+			"./bower_components",
+			"../annotator-1.2.9/lib/",
+			"floatingstudytimer",
+			"<html><head><link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"></head><body><div id=\"bibleText\">",
+			"img/",
+			"",
+			"/planner/",
+			"Planner",
+			".planner.",
+			"Planner"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/templates/contacts.html",
+					"settings":
+					{
+						"buffer_size": 637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								586,
+								586
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/templates/contact.html",
+					"settings":
+					{
+						"buffer_size": 732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/js/controllers.js",
+					"settings":
+					{
+						"buffer_size": 3930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3310,
+								3636
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 851.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 53.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true
+}

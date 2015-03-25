@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"path": "/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/bmapp"
+		},
+		{
+			"path": "/usr/bin/jboss-5.1.0/server/default/deploy/ROOT.war/problemaRoles"
+		}
+	]
+}
